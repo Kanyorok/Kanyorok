@@ -1,7 +1,7 @@
 ### Hi there 👋,
 ![I am Fullstack Web Software Developer.](./banner.png)
 <br/>
-<img src="/profile.gif" width="50%"/>
+<img src="/profile.gif" width="100%"/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanyorok)](https://github.com/anuraghazra/github-readme-stats)
 # 📖 JOB SEARCH <a name="about-project"></a>
 
