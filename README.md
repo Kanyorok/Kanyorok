@@ -1,5 +1,9 @@
 ### Hi there 👋
-<img src="/profile.gif" width="100%"/>
+I am **Robert Kanyoro** and I am a ✨ _Fullstack Software Developer_ ✨ <br/>
+<img src="/profile.gif" width="50%"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanyorok)](https://github.com/anuraghazra/github-readme-stats)
+# 📖 JOB SEARCH <a name="about-project"></a>
+if (Looking 
 <!--
 **Kanyorok/Kanyorok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
