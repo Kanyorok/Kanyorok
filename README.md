@@ -6,7 +6,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=kanyorok&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 # 📖 JOB SEARCH <a name="about-project"></a>
 - 👯 I’m looking to collaborate on Web Development Projects related to Javascript (ES6), ReactJs, and NodeJS.
-- 📫 How to reach me: rmjesusaddict@gmail.com
+- 📫 How to reach me: robertmbugua.kanyoro@gmail.com
 <!--
 **Kanyorok/Kanyorok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
